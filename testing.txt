@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5AC4-9D71
+
+ Directory of C:\Users\Haniya Adnan\Desktop
+
+08/31/2024  06:43 PM    <DIR>          .
+08/31/2024  06:43 PM    <DIR>          ..
+08/26/2024  11:41 PM             2,223 Haniya (Person 1) - Chrome.lnk
+09/17/2023  01:51 PM             2,408 Personal - Edge.lnk
+08/31/2024  06:43 PM                 0 testing.txt
+               3 File(s)          4,631 bytes
+               2 Dir(s)  260,700,160,000 bytes free
